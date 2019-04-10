@@ -4,24 +4,30 @@ public class TacoTruck {
     //Project: Taco Truck
 
     public static void main(String[] args) {
-        System.out.println("Building A Taco Truck");
-        System.out.println("/n/n/n/n");
 
-        System.out.println("----------------------------------------------");
-        System.out.println("l        Welcome To Delgados Tacos!          l");
-        System.out.println("l      1____________________________1        l");
-        System.out.println("l      1                            1        l");
-        System.out.println("l      1                            1        l - l-------------l                 ");
-        System.out.println("l      1                            l        l - l     l-----l  l                ");
-        System.out.println("l      1                            1        l - l     l     l   l               ");
-        System.out.println("l      1                            1        l - l     l______l___l              ");
-        System.out.println("l      1____________________________1        l - l     l _     l  l              ");
-        System.out.println("l                                            l - l     l       l  l              ");
-        System.out.println("l                                            l - l     l-------l  l              ");
-        System.out.println("l     oooo                       oooo        l - l   oooo         l              ");
-        System.out.println("-----oooooo---------------------oooooo--------   l--oooooo---------              ");
-        System.out.println("      oooo                       oooo                oooo");
+
+displayTacoTruck();
+
 
     }
 
+
+
+    public static void displayTacoTruck (){
+        System.out.println("----------------------------------------------");
+        System.out.println("|              Delgados Tacos!               |");
+        System.out.println("|      ______________________________        |");
+        System.out.println("|      |                            |        |");
+        System.out.println("|      |                            |        | - |--------------                 ");
+        System.out.println("|      |                            |        | - |     l----l   l                ");
+        System.out.println("|      |                            |        | - |     l     1   1               ");
+        System.out.println("|      |                            |        | - |     l______l___1              ");
+        System.out.println("|      |____________________________|        | - |     | _    |   |              ");
+        System.out.println("|                                            | - |     |      |   |              ");
+        System.out.println("|                                            | - |     --------   |              ");
+        System.out.println("|     oooo                       oooo        | - |   oooo         |              ");
+        System.out.println("|----oooooo---------------------oooooo-------|   |--oooooo--------|              ");
+        System.out.println("      oooo                       oooo                oooo");
+
+    }
 }
