@@ -57,11 +57,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FavoriteSong.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FavoriteSong.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FavoriteSong.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomNumberGen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RandomNumberGen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SammysMotto.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SammysMotto.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="157" selection-start-line="4" selection-start-column="157" selection-end-line="4" selection-end-column="157" />
+              <caret line="4" column="91" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
             </state>
           </provider>
         </entry>
@@ -87,6 +105,8 @@
         <option value="$PROJECT_DIR$/src/MovieQuote.java" />
         <option value="$PROJECT_DIR$/src/MovieQuoteInfo.java" />
         <option value="$PROJECT_DIR$/src/FavoriteSong.java" />
+        <option value="$PROJECT_DIR$/src/RandomNumberGen.java" />
+        <option value="$PROJECT_DIR$/src/SammysMotto.java" />
       </list>
     </option>
   </component>
@@ -136,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FavoriteSong">
+  <component name="RunManager" selected="Application.SammysMotto">
     <configuration name="FavoriteSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FavoriteSong" />
       <module name="JAVA" />
@@ -152,13 +172,13 @@
       <module name="JAVA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TableAndChairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TableAndChairs" />
+    <configuration name="RandomNumberGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomNumberGen" />
       <module name="JAVA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TacoTruck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TacoTruck" />
+    <configuration name="SammysMotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SammysMotto" />
       <module name="JAVA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -204,19 +224,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TableAndChairs" />
-      <item itemvalue="Application.TacoTruck" />
       <item itemvalue="Application.MovieQuote" />
       <item itemvalue="Application.MovieQuoteInfo" />
       <item itemvalue="Application.FavoriteSong" />
+      <item itemvalue="Application.RandomNumberGen" />
+      <item itemvalue="Application.SammysMotto" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SammysMotto" />
+        <item itemvalue="Application.RandomNumberGen" />
         <item itemvalue="Application.FavoriteSong" />
         <item itemvalue="Application.MovieQuoteInfo" />
         <item itemvalue="Application.MovieQuote" />
-        <item itemvalue="Application.TacoTruck" />
-        <item itemvalue="Application.TableAndChairs" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +290,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -323,20 +343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TableAndChairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TacoTruck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="108" lean-forward="true" selection-start-line="22" selection-start-column="108" selection-end-line="22" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MovieQuote.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -353,8 +359,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FavoriteSong.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomNumberGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TacoTruck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="108" lean-forward="true" selection-start-line="22" selection-start-column="108" selection-end-line="22" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TableAndChairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SammysMotto.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="157" selection-start-line="4" selection-start-column="157" selection-end-line="4" selection-end-column="157" />
+          <caret line="4" column="91" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
         </state>
       </provider>
     </entry>
