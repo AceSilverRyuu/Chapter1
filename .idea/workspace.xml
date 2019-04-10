@@ -30,11 +30,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TacoTruck.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TacoTruck.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TacoTruck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="374">
               <caret line="22" column="108" lean-forward="true" selection-start-line="22" selection-start-column="108" selection-end-line="22" selection-end-column="108" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieQuote.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MovieQuote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovieQuoteInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MovieQuoteInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="168" selection-start-line="4" selection-start-column="168" selection-end-line="4" selection-end-column="168" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FavoriteSong.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FavoriteSong.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="157" selection-start-line="4" selection-start-column="157" selection-end-line="4" selection-end-column="157" />
             </state>
           </provider>
         </entry>
@@ -57,13 +84,16 @@
         <option value="$PROJECT_DIR$/src/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/TableAndChairs.java" />
         <option value="$PROJECT_DIR$/src/TacoTruck.java" />
+        <option value="$PROJECT_DIR$/src/MovieQuote.java" />
+        <option value="$PROJECT_DIR$/src/MovieQuoteInfo.java" />
+        <option value="$PROJECT_DIR$/src/FavoriteSong.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -106,9 +136,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TacoTruck">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+  <component name="RunManager" selected="Application.FavoriteSong">
+    <configuration name="FavoriteSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FavoriteSong" />
+      <module name="JAVA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MovieQuote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MovieQuote" />
+      <module name="JAVA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MovieQuoteInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MovieQuoteInfo" />
       <module name="JAVA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -164,15 +204,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.TableAndChairs" />
       <item itemvalue="Application.TacoTruck" />
+      <item itemvalue="Application.MovieQuote" />
+      <item itemvalue="Application.MovieQuoteInfo" />
+      <item itemvalue="Application.FavoriteSong" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FavoriteSong" />
+        <item itemvalue="Application.MovieQuoteInfo" />
+        <item itemvalue="Application.MovieQuote" />
         <item itemvalue="Application.TacoTruck" />
         <item itemvalue="Application.TableAndChairs" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -288,8 +332,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TacoTruck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="374">
           <caret line="22" column="108" lean-forward="true" selection-start-line="22" selection-start-column="108" selection-end-line="22" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MovieQuote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MovieQuoteInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="168" selection-start-line="4" selection-start-column="168" selection-end-line="4" selection-end-column="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FavoriteSong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="157" selection-start-line="4" selection-start-column="157" selection-end-line="4" selection-end-column="157" />
         </state>
       </provider>
     </entry>
